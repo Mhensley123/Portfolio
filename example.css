@@ -1,0 +1,85 @@
+
+ 
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Great+Vibes&family=Roboto:ital,wght@0,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Roboto:ital,wght@0,300;1,400&display=swap');
+
+h1 {
+    color: teal;
+    text-align: left;
+    font-family: 'Dancing Script'
+   
+  
+    
+}
+h1 {
+    font-size: 100px;
+  }
+body{
+    color: rgb(229, 237, 237);
+    text-align: center;
+    font-family: Roboto;
+}
+
+
+body{
+    background-image: url(desktop-wallpaper-stargazer-copper-curtain-lights-7-plug-in-christmas-lights-fairy-lights-curtain-lights-warm-light.jpg);
+}
+li{
+
+    color: teal;
+    outline: gold;
+    bottom: 10em;
+}
+h2,h4,h9{
+    font-size: 50px;
+    color: rgb(1, 45, 45);
+    text-align: center;
+    font-family: Roboto;
+    background-color: rgba(193, 205, 207, 0.89);
+    width: 100%;
+}
+h3{
+    font-size: 30px;
+    color: rgb(1, 45, 45);
+    text-align: center;
+    font-family: Roboto;
+}
+h5{
+    font-size: 30px;
+    color: rgb(1, 45, 45);
+    text-align: center;
+    font-family: Roboto;
+}
+h6{
+    font-size: 30px;
+    color: rgb(1, 45, 45);
+    text-align: center;
+    font-family: Roboto;
+}
+h7{
+    font-size: 30px;
+    color: rgb(1, 45, 45);
+    text-align: center;
+    font-family: Roboto;
+}
+
+h8{
+    font-size: 30px;
+    color: rgb(1, 45, 45);
+    text-align: center;
+    font-family: Roboto;
+}
+
+h10{
+    font-size: 30px;
+    color: rgb(1, 45, 45);
+    text-align: center;
+    font-family: Roboto;
+    
+}
+#visionboard{
+    background-blend-mode: lighten;
+}
+
